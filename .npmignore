@@ -23,3 +23,7 @@ config
 .travis.yml
 CHANGELOG.md
 README.md
+
+/**/*
+!dist/gaia.demo.map.js
+!ACKNOWLEDGEMENT
