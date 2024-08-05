@@ -26,6 +26,7 @@
   "dependencies": {
     "lightweight-charts": "^3.8.0"
   },
+  "files": ["dash_tvlwc"],
   "devDependencies": {
     "@babel/core": "^7.5.4",
     "@babel/plugin-proposal-object-rest-spread": "^7.5.4",
